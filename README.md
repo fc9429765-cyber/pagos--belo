@@ -1,3 +1,4 @@
+
 ### 💜 ¡Apoya este proyecto!
 Si encuentras útil este repositorio, puedes realizar una donación a través de los siguientes métodos de pago:
 
